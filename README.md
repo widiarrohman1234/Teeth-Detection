@@ -3,7 +3,7 @@ This program will perform image cutting from panoramic dental scans using X-rays
 
 ## How to clone
 ```
-git clone ....
+git clone https://github.com/widiarrohman1234/Teeth-Detection.git
 ```
 
 ## How to create venv
