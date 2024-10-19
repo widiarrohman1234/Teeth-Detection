@@ -31,3 +31,6 @@ flask --app main.py --debug run
 ![input image](image_test.png)
 - output image
 ![input image](image_result.png)
+
+## Contact Me
+- email: widiarrohman1234@gmail.com
