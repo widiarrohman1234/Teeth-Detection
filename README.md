@@ -11,12 +11,16 @@ python -m venv .venv
 ```
 
 ## How to enable .venv
-using linux
+- using linux
 ```
 . .venv/bin/activate
 ```
+- using windows
+```
+source .venv/Scripts/activate
+```
 
-## How to run
+## How to run app
 ```
 flask --app main.py --debug run
 ```
