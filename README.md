@@ -1,4 +1,5 @@
-# Hello
+# Quickstart
+This program will perform image cutting from panoramic dental scans using X-rays that take the entire image such as the neck bone, nose and others. This causes a lot of noise or pixels that are not needed if CNN is to be done. Therefore, with this program will detect only the tooth part, cut it and return it in the form of a base64 response or image.
 
 ## How to clone
 ```
@@ -24,3 +25,9 @@ source .venv/Scripts/activate
 ```
 flask --app main.py --debug run
 ```
+
+# Detail Application
+- input image
+![input image](image_test.png)
+- output image
+![input image](image_result.png)
