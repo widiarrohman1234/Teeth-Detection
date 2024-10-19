@@ -32,5 +32,11 @@ flask --app main.py --debug run
 - output image
 ![input image](image_result.png)
 
+# Example Postman Image
+- response base64
+![response base64](docs\postman_base64.png)
+- response image
+![response image](docs\postman_image.png)
+
 ## Contact Me
 - email: widiarrohman1234@gmail.com
